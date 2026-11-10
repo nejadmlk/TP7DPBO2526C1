@@ -86,16 +86,16 @@ Dengan adanya pembagian halaman dan komponen tersebut, pengguna dapat mengelola 
 # Dokumentasi
 
 ## Input
-<img src="Dokumentasi/add.gif" width="100%">
+<img src="Dokumentasi/tambah.gif" width="100%">
 
 ## Update
 <img src="Dokumentasi/update.gif" width="100%">
 
 ## Delete
-<img src="Dokumentasi/delete.gif" width="100%">
+<img src="Dokumentasi/hapus.gif" width="100%">
 
-## Update klo ada yang kosong
-<img src="Dokumentasi/update-klo-ad-kosong.gif" width="100%">
+## Tampilan detail
+<img src="Dokumentasi/Tampilan Detail.gif" width="100%">
 
-## Input klo ada yang sama
+## Dashboard
 <img src="Dokumentasi/add-klo-id-sama.gif" width="100%">
