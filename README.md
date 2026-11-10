@@ -98,4 +98,4 @@ Dengan adanya pembagian halaman dan komponen tersebut, pengguna dapat mengelola 
 <img src="Dokumentasi/Tampilan Detail.gif" width="100%">
 
 ## Dashboard
-<img src="Dokumentasi/add-klo-id-sama.gif" width="100%">
+<img src="Dokumentasi/dashboard.png" width="100%">
